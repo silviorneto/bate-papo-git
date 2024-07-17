@@ -120,7 +120,8 @@
         git push -u origin main
 
         ```
-
+    - `git pull`: Recebendo alterações do remoto
+      
 - **Colaborando no GitHub**
     - Pull Requests.
     - Revisão de código.
