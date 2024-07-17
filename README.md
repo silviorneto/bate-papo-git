@@ -1,10 +1,17 @@
 # Git / Github
 
-## O que é o GIthub
+## O que é o Git
 
 - Sistema de controle de versão distribuído.
 - Criado por Linus Torvalds em 2005.
 - Usado para rastrear mudanças no código-fonte durante o desenvolvimento de software.
+
+## Conceitos
+- Branch
+- Commit
+- Stage area
+- Repositório local
+- Repositório remoto
 
 ## Qual problema ele resolve?
 
