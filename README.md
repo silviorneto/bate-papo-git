@@ -6,18 +6,18 @@
 - Criado por Linus Torvalds em 2005.
 - Usado para rastrear mudanças no código-fonte durante o desenvolvimento de software.
 
+## Qual problema ele resolve?
+
+- Mantém o histórico de alterações.
+- Facilita o trabalho colaborativo em projetos.
+- Permite reverter mudanças e experimentar novas funcionalidades sem risco.
+
 ## Conceitos
 - Branch
 - Commit
 - Stage area
 - Repositório local
 - Repositório remoto
-
-## Qual problema ele resolve?
-
-- Mantém o histórico de alterações.
-- Facilita o trabalho colaborativo em projetos.
-- Permite reverter mudanças e experimentar novas funcionalidades sem risco.
 
 ## **Configuração Inicial**
 
